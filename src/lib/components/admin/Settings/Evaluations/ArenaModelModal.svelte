@@ -218,7 +218,7 @@
 							/>
 
 							<button
-								class="relative rounded-full w-fit h-fit shrink-0"
+								class="relative w-fit h-fit shrink-0"
 								type="button"
 								on:click={() => {
 									imageInputElement.click();
