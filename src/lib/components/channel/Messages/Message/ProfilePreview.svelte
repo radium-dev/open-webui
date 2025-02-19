@@ -41,7 +41,7 @@
 						<img
 							crossorigin="anonymous"
 							src={user?.profile_image_url ?? `${WEBUI_BASE_URL}/static/favicon.png`}
-							class=" absolute -bottom-5 left-3 size-12 ml-0.5 object-cover rounded-full -translate-y-[1px]"
+							class=" absolute -bottom-5 left-3 size-12 ml-0.5 object-cover -translate-y-[1px]"
 							alt="profile"
 						/>
 					</div>
